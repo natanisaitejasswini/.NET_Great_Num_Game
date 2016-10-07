@@ -1,0 +1,16 @@
+*{
+margin: 0px;
+padding: 0px;
+font-family:sans-serif;
+font-size: 20px;
+}
+body{
+    text-align:center;
+    margin-top: 200px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
